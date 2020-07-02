@@ -1,0 +1,16 @@
+C:\Users\samet\source\repos\ImdbFinal\bin\Debug\ImdbFinal.exe.config
+C:\Users\samet\source\repos\ImdbFinal\bin\Debug\ImdbFinal.exe
+C:\Users\samet\source\repos\ImdbFinal\bin\Debug\ImdbFinal.pdb
+C:\Users\samet\source\repos\ImdbFinal\obj\Debug\ImdbFinal.csprojAssemblyReference.cache
+C:\Users\samet\source\repos\ImdbFinal\obj\Debug\ImdbFinal.MDIParent1.resources
+C:\Users\samet\source\repos\ImdbFinal\obj\Debug\ImdbFinal.Properties.Resources.resources
+C:\Users\samet\source\repos\ImdbFinal\obj\Debug\ImdbFinal.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\ImdbFinal\obj\Debug\ImdbFinal.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\ImdbFinal\obj\Debug\ImdbFinal.exe
+C:\Users\samet\source\repos\ImdbFinal\obj\Debug\ImdbFinal.pdb
+C:\Users\samet\source\repos\ImdbFinal\obj\Debug\ImdbFinal.FormMain.resources
+C:\Users\samet\source\repos\ImdbFinal\obj\Debug\ImdbFinal.FormMovie.resources
+C:\Users\samet\source\repos\ImdbFinal\obj\Debug\ImdbFinal.FormCast.resources
+C:\Users\samet\source\repos\ImdbFinal\obj\Debug\ImdbFinal.FormGenre.resources
+C:\Users\samet\source\repos\ImdbFinal\obj\Debug\ImdbFinal.FormImage.resources
+C:\Users\samet\source\repos\ImdbFinal\obj\Debug\ImdbFinal.FormWatch.resources
